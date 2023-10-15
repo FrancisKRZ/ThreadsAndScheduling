@@ -148,6 +148,3 @@ References & Resources used:
     https://superfastpython.com/thread-producer-consumer-pattern-in-python/
     
 
-Elaborations:
-    Adviced by Nicole Ramirez on how to split data strings using built-in Python methods.
-
